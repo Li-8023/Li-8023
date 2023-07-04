@@ -1,7 +1,9 @@
 ### Hi there 👋, I'm Li He
 
 ## Skills and Experience
-* :computer: Python, C/C++, Java, JavaFX, Swift, React, JavaScript, C#
+* :computer: Python, C/C++, Java, JavaFX, Swift, JavaScript, C#, Vue3
+* :toolbox: MATLAB, PostgreSQL, Minitab, GitHub, Windows, Linux, GameMaker, VirtualBox, MongoDB
+* :iphone: React, MacOS
 
 I am Li, a senior student majoring in computer science at Arizona State University. I come from China and have a keen interest in AI, HCI, and UI. My purpose here is to contribute to remarkable projects and maintain active involvement in the open-source community. You can check out my LinkedIn at https://www.linkedin.com/in/li-he-31ba93248/.
 
