@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am Li, a senior student majoring in computer science at Arizona State University. I come from China and have a keen interest in AI, HCI, and UI. My purpose here is to contribute to remarkable projects and maintain active involvement in the open-source community. You can check out my LinkedIn at https://www.linkedin.com/in/li-he-31ba93248/.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Li-8023)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Li-8023/Li-8023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
