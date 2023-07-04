@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, my name is Li He
 #### I am an student 
 ![I am an student ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
