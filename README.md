@@ -1,13 +1,11 @@
 ### Hi there 👋, I'm Li He
 
 ## Skills and Experience
-* :computer: Python, C/C++, Java, JavaFX, Swift, JavaScript, C#, Vue3
-* :toolbox: MATLAB, PostgreSQL, Minitab, GitHub, Windows, Linux, GameMaker, VirtualBox, MongoDB
-* :iphone: React, MacOS
+* :computer: Python, C/C++, Java, C#, Vue3
+* :toolbox: MATLAB, PostgreSQL, Minitab, GitHub, Windows, Linux, GameMaker, VirtualBox, MongoDB, MacOS
+* :iphone: React, JavaScript, Swift, SwiftUI, JavaFX
 
 I am Li, a senior student majoring in computer science at Arizona State University. I come from China and have a keen interest in AI, HCI, and UI. My purpose here is to contribute to remarkable projects and maintain active involvement in the open-source community. You can check out my LinkedIn at https://www.linkedin.com/in/li-he-31ba93248/.
-
-Skills: MATLAB, API, Python, C/C++, Java, JavaFX, Swift, React, JavaScript, C#, PostgreSQL, Minitab, GitHub, Windows, Linux, MacOS, GameMaker, VirtualBox, MongoDB
 
 - 📫 How to reach me: lihe57156@gmail.com 
 
@@ -18,18 +16,3 @@ Skills: MATLAB, API, Python, C/C++, Java, JavaFX, Swift, React, JavaScript, C#, 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Li-8023&show_icons=true)  
 
-
-<!--
-**Li-8023/Li-8023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
