@@ -2,7 +2,7 @@
 
 ## Skills and Experience
 * :computer: Python, C/C++, Java, C#, Vue3
-* :toolbox: MATLAB, PostgreSQL, Minitab, GitHub, Windows, Linux, GameMaker, VirtualBox, MongoDB, MacOS
+* :toolbox: MATLAB, Minitab, GameMaker, VirtualBox, MongoDB, PostgreSQL, MacOS, Windows, Linux
 * :iphone: React, JavaScript, Swift, SwiftUI, JavaFX
 
 I am Li, a senior student majoring in computer science at Arizona State University. I come from China and have a keen interest in AI, HCI, and UI. My purpose here is to contribute to remarkable projects and maintain active involvement in the open-source community. You can check out my LinkedIn at https://www.linkedin.com/in/li-he-31ba93248/.
