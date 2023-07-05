@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Li He
-<div align="center">
-  <img height="200" src="https://www.canva.com/design/DAFnwdtJmyk/_hC3P-DXkuZAq3zP1jZqow/view?utm_content=DAFnwdtJmyk&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel\"  />
-</div>
+![modern green coming soon (Banner (Landscape))](https://github.com/Li-8023/Li-8023/assets/80284104/e62caa00-c261-4626-be7f-7a4ed7a2a96f)
 
 ###
 ## Skills and Experience
