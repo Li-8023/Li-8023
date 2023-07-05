@@ -14,7 +14,7 @@ I am Li, a senior student majoring in computer science at Arizona State Universi
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Li-8023)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/li-he-31ba93248/)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=li-8023&show_icons=true&locale=en&layout=compact" alt="li-8023" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=li-8023&show_icons=true&locale=en&layout=compact&theme=radical" alt="li-8023" /></p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Li-8023&show_icons=true&theme=radical)  
 
