@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Li He
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://www.canva.com/design/DAFnwdtJmyk/_hC3P-DXkuZAq3zP1jZqow/view?utm_content=DAFnwdtJmyk&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel"  />
 </div>
 
 ###
