@@ -1,5 +1,9 @@
 ### Hi there 👋, I'm Li He
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
+###
 ## Skills and Experience
 * :computer: Python, C/C++, Java, C#, Vue3
 * :toolbox: MATLAB, Minitab, GameMaker, VirtualBox, MongoDB, PostgreSQL, MacOS, Windows, Linux
