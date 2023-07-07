@@ -12,5 +12,5 @@ I am Li, a senior student majoring in computer science at Arizona State Universi
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=li-8023&show_icons=true&locale=en&layout=compact&theme=radical" alt="li-8023" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Li-8023&show_icons=true&theme=radical)  
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=Li-8023&show_icons=true&theme=radical)  -->
 
