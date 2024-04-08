@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Li He
-![modern green coming soon (Banner (Landscape))](https://github.com/Li-8023/Li-8023/assets/80284104/e62caa00-c261-4626-be7f-7a4ed7a2a96f)
+![modern green coming soon (Banner (Landscape))](https://github.com/Li-8023/Golang-Project/assets/80284104/f6e87dfb-7c48-41bd-9371-d9740b6582b8)
 
 ###
 ## Skills and Experience
