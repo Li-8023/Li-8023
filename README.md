@@ -3,7 +3,7 @@
 
 ###
 ## Skills and Experience
-I am Li, I've recently been accepted into the Master's in Computer Science program at Georgia Tech. I am from China, with a deep passion for developing web and iOS applications, as well as a strong interest in Human-Computer Interaction (HCI) and User Interface design. My purpose here is to contribute to remarkable projects and maintain active involvement in the open-source community. You can check out my LinkedIn at https://www.linkedin.com/in/li-he-31ba93248/. 
+I am Li, I've recently been accepted into the Master's in Computer Science program at Georgia Tech. I am from China, with a deep passion for developing web and software applications, as well as a strong interest in Human-Computer Interaction (HCI) and User Interface design. My purpose here is to contribute to remarkable projects and maintain active involvement in the open-source community. You can check out my LinkedIn at https://www.linkedin.com/in/li-he-31ba93248/. 
 - 📫 How to reach me: lihe57156@gmail.com
 - 👩 My website: https://li-8023.github.io/
 
