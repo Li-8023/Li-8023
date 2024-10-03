@@ -35,9 +35,7 @@ I am Li, and I've recently been accepted into the Master's in Computer Science p
   <a href="https://golang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" alt="Go" width="40" height="40"/> 
   </a>
-</p>
 
-<p align="left">
   <!-- Frontend Development -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -60,9 +58,7 @@ I am Li, and I've recently been accepted into the Master's in Computer Science p
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
     <img width="50" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/>
   </a>
-</p>
 
-<p align="left">
   <!-- Backend Development -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
@@ -76,10 +72,7 @@ I am Li, and I've recently been accepted into the Master's in Computer Science p
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a>
-</p>
 
-<p align="left">
-  <!-- Tools -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
